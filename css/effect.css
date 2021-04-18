@@ -1,0 +1,32 @@
+a:hover{
+ text-decoration:none!important;
+}
+.login_btn:hover .login_text{
+    position:relative;
+    animation:bounce 0.3s forwards;
+    border-color: rgb(0 0 0 / 0%);
+    color: rgb(0 131 255);
+}
+
+.login_btn:hover{
+   background-color: rgb(0 131 255 / 8%)!important;
+}
+.get_startedbtn:hover .btn_text{
+      animation:bounce 0.3s forwards;
+}
+.get_startedbtn:hover{
+	background-color: rgb(0 131 255)!important;
+	color: rgb(255 255 255)!important;
+	transform: translate(-3px,5px);
+	transition: 0.3s;
+}
+
+.slider_btn:hover .slide_text>img{
+	animation:slide 0.3s forwards;
+
+    color: rgb(255 255 255)!important;
+}
+.icons:hover .icon{
+   opacity:1;
+   transition:0.4s;
+}

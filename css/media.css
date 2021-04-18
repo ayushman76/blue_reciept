@@ -1,0 +1,146 @@
+@media(max-width:1200px){
+	.nav_btn,nav>ul,.base,.process>h3>span{
+		display:none;
+	}
+	.menu_bar{
+		position: absolute;
+		right: 15px;
+		top: 29px;
+		display:block!important;
+	}
+	.slider_content{
+		text-align:center;
+	}
+	.slider_content h1,.slider_content span {
+  
+    font-size: 38px!important;
+
+   }
+   .slide_text>img {
+       margin: 1px 33px 0px -53px!important;
+   }
+   .slider_btn {
+    
+    width:280px!important;
+    
+  }
+  .heading,.para,.btn{
+	  text-align: center;
+  }
+  .list_slider>ul {
+    
+    overflow-X: scroll!important;
+    scroll-behavior: smooth;
+   }
+   .subcontent>ul>li>a {
+    width: 43%!important;
+    
+   }
+   .icons>img {
+    width: 100%!important;
+    
+   }
+   .display-grid {
+   display: block!important;
+   }
+   .navbar-nav{
+	   margin: 0 auto!important;
+   }
+   .slider_talk {
+    top: 12px!important;
+    left:0px!important; 
+   }
+   .btn>ul>li>a{
+	       left: 90px;
+    right: 53px;
+   }
+  .like {
+    width: 46%!important;
+    position: absolute;
+    right: -12px!important;
+    top: 0px;
+    top: -47px!important;
+}
+   .item>img {
+    position: absolute; 
+    width: 17%!important;
+    z-index: 99999;
+   }
+   .img03 {
+    top: 189px!Important;
+    margin: 0 auto!Important;
+    left: 131px!Important;
+  }
+  .chat {
+    top: 47px!important;
+    right: 45px!important;
+}
+.msg {
+    top: 96px!important;
+    left: 31px!important;
+}
+.insta {
+    top: -29px!important;
+    left: 152px!important;
+   
+}
+.bubble {
+    top: 283px!important;
+    left: 225px!important;
+}
+.img04 {
+    top: 126px!important;
+    left: 101px!important;
+}
+.img05 {
+    top: 273px!important;
+    right: 100px!important;
+}
+.img06 {
+    top: 148px!important;
+    right: 92px!important;
+    width: 240px!important;
+}
+.item{
+	display:none;
+}
+.myTabs {
+    padding: 12px 5px!important;
+	
+}
+.myTabs>ul>li {
+    margin: 0px 0px!important;
+}
+.myTabs>ul {
+   position:inherit!important;
+    display: inline-flex;
+    width: 100%;
+    overflow: scroll;
+    scroll-snap-align: center;
+scroll-behavior: smooth;}
+footer {
+    background-color: rgb(8 17 49);
+    top: 0px!important;
+	bottom:0!important;
+    position: relative;
+    padding: 10px!Important;;
+}
+.upfooter {
+    position: relative;
+    border-bottom: 0px solid rgb(31 42 72);
+    background-color: rgb(8 17 49);
+    height:auto!important;
+ padding: 10px!important;}
+ .my_contentimg>img {
+        width: 100%!important;
+    position: inherit!important;
+    top: 0px;
+    left: 0px!Important;
+    height: 100%;
+    padding: 75px 0px;
+    margin-bottom: 150px;
+}
+.my_content{
+    margin-bottom: 74px;
+}
+}
